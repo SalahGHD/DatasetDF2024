@@ -14,4 +14,4 @@ each Motorway folder contain : 3 sub folder such as : Sheets file, image and Map
 •	Destination: destination name
 •	Junction: name of junction
 2) image folder :contains scraped images named by date with yyyy_dd_mm__hh_mm_ss format
-2) Map  folder :contains of each motorway 
+3) Map  folder :contains of each motorway 
