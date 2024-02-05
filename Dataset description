@@ -1,0 +1,17 @@
+each Motorway folder contain : 3 sub folder such as : Sheets file, image and Map
+  1) The structure of the sheet files.
+•	Local Date: represent date 
+•	Local Time: represent time
+•	Total Flow (Direction1): number of vehicles
+•	Total Flow (Direction2): number of vehicles
+•	Speed Value (Direction1): Speed average
+•	Speed Value (Direction2): Speed average
+•	CamL(Direction1): reference of cctv camera (link to scraped image)
+•	CamR (Direction2): reference of cctv camera (link to scraped image)
+•	UrlCamL: link of installed cctv camera
+•	UrlCamR: link of installed cctv camera
+•	Location: area name
+•	Destination: destination name
+•	Junction: name of junction
+2) image folder :contains scraped images named by date with yyyy_dd_mm__hh_mm_ss format
+2) Map  folder :contains of each motorway 
